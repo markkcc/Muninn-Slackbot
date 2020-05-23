@@ -6,7 +6,7 @@ gem 'otr-activerecord', '~> 1.2.1'
 gem 'pg'
 gem 'rack-server-pages'
 gem 'rack-test'
-gem 'slack-ruby-bot-server', path: '../../'
+gem 'slack-ruby-bot-server'
 gem 'unicorn'
 
 group :development, :test do
