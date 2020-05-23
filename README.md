@@ -1,0 +1,2 @@
+# Muninn-Slackbot
+OSINT Slackbot
